@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Pixelify+Sans&family=Roboto:wght@400;500;700&display=swap');
+
+body{
+  font-family: 'Pixelify sans', impact;
+  background-image: url(pic/starryskies.jpg);
+}
+
+img {
+  width: 600px;
+  margin-top: 10px;
+  position: absolute;
+  top: 230px;
+  left: 35%;
+  opacity: 0.5;
+}
+
+td, tr{
+  color: aqua;
+}
+
+.btn {
+  font-family: 'Pixelify Sans';
+  font-weight: bold;
+  padding: 10px 0px;
+  background-color: #aaaaaa;
+  border-radius: 5px;
+  border: none;
+  font-size: 15px;
+  padding: 10px 20px;
+  color: aqua;
+  position: relative;
+}
